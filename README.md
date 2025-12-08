@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Framework-Behavioral%20System%20Design-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Latent%20Variables-red?style=for-the-badge" />
 
-
 </p>
 
 *Why loyalty isn’t a number, but a behavioral shape and how modern ML systems can finally map, predict, and influence its dynamics.*
